@@ -1,6 +1,6 @@
 <html>
 <body>
-<marque><h1 style='color:red;'><%= "Hi" %></h1></marque>
+<marquee><h1 style='color:red;'><%= "Hi" %></h1></marquee>
 <h1><%= "WELCOME" %></h1>
 <h1><%= "BEC" %></h1>
 <h1><%= "BAPATLA" %></h1>
